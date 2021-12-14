@@ -9,3 +9,4 @@ Software used:
 
 3. Visual studio code
 
+OUTPUT IN Doc2.docx FILE
