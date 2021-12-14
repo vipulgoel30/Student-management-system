@@ -8,4 +8,12 @@ Software used:
 2. MYSQL Workbench 8.0 CE
 
 3. Visual studio code
-![alt text](https://github.com/vipulgoel30/Student-management-system/blob/a2dd72f8b79322a6b1c84db42a47c87079579ba9/ss2.png)
+![alt text](https://github.com/vipulgoel30/Student-management-system/blob/1554dc415b3b381366d83194338dba687d4caee0/ss1.png)
+![alt text](https://github.com/vipulgoel30/Student-management-system/blob/1554dc415b3b381366d83194338dba687d4caee0/ss0.png)
+![alt text](https://github.com/vipulgoel30/Student-management-system/blob/1554dc415b3b381366d83194338dba687d4caee0/ss2.png)
+![alt text](https://github.com/vipulgoel30/Student-management-system/blob/1554dc415b3b381366d83194338dba687d4caee0/ss3.png)
+![alt text](https://github.com/vipulgoel30/Student-management-system/blob/1554dc415b3b381366d83194338dba687d4caee0/ss4.png)
+![alt text](https://github.com/vipulgoel30/Student-management-system/blob/1554dc415b3b381366d83194338dba687d4caee0/ss5.png)
+![alt text](https://github.com/vipulgoel30/Student-management-system/blob/1554dc415b3b381366d83194338dba687d4caee0/ss6.png)
+![alt text](https://github.com/vipulgoel30/Student-management-system/blob/1554dc415b3b381366d83194338dba687d4caee0/ss7.png)
+
