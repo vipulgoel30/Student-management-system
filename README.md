@@ -9,7 +9,7 @@ Software used:
 
 3. Visual studio code
 
-
+                                  OUTPUT
 
 ![alt text](https://github.com/vipulgoel30/Student-management-system/blob/8554227bbfbadb9cc77888a73b998e8fff3d05fe/ss9.png)
 ![alt text](https://github.com/vipulgoel30/Student-management-system/blob/1554dc415b3b381366d83194338dba687d4caee0/ss0.png)
